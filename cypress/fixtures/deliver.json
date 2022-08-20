@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Emerson Ferreira",
+        "cpf": "00000014141",
+        "email":"emerson@gatao.com.br",
+        "whatsapp": "85988858471",
+        "address": {
+            "postalcode": "60050071",
+            "street": "Rua Barão de Aratanha",
+            "number": "1252",
+            "details": "apto 10",
+            "district": "José Bonifácio",
+            "city_state": "Fortaleza/CE"                               
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg" 
+    },
+    "cpf_inv": {
+        "name": "Emerson Ferreira",
+        "cpf": "000000141AA",
+        "email":"emerson@gatao.com.br",
+        "whatsapp": "85988858471",
+        "address": {
+            "postalcode": "60050071",
+            "street": "Rua Barão de Aratanha",
+            "number": "1252",
+            "details": "apto 10",
+            "district": "José Bonifácio",
+            "city_state": "Fortaleza/CE"                               
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg" 
+    },
+    "email_inv":  {
+        "name": "Emerson Ferreira",
+        "cpf": "00000014141",
+        "email":"emersongatao.com.br",
+        "whatsapp": "85988858471",
+        "address": {
+            "postalcode": "60050071",
+            "street": "Rua Barão de Aratanha",
+            "number": "1252",
+            "details": "apto 10",
+            "district": "José Bonifácio",
+            "city_state": "Fortaleza/CE"                               
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg.jpg" 
+    }
+}
