@@ -22,8 +22,7 @@ jobs:
           browser: chrome
           record: true
           group: 'UI - Chrome'
-          spec: cypress/e2e/*
-        env:
-          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          spec: cypress/integration/*
+        env:         
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    config-file: cypress.config.js
+
