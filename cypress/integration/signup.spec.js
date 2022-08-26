@@ -85,3 +85,5 @@ describe('Errors', () => {
         // signup.alertMessageShouldBe('Adicione uma foto da sua CNH')
     // })
 })
+
+// Para rodar em diferentes navegadores basta usar o npx cypress run -b "nome do navegador"
